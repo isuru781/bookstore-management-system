@@ -1,5 +1,5 @@
 
-# Bookstore Management System API
+# Bookstore Management System API(JAX-RS)
 
 ## Overview
 This project is a Bookstore Management System created using RESTful web services with the Java API for RESTful Web Services (JAX-RS). The API manages various entities such as books, authors, customers, shopping carts, and orders.
